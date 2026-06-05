@@ -1,0 +1,22 @@
+body{
+    width: 1920px;
+    box-sizing: border-box;
+}
+.form-label{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 416px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.form-text{
+ margin-left: 532px;
+}
+.form-container{
+    margin-right: 600px;
+}
+.form-second-container{
+    margin-left: 420px;
+    margin-top: -375px;
+}
